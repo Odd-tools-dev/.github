@@ -10,8 +10,6 @@
 
 <p align="center">
   <a href="https://odd-tools-dev.github.io/site/"><b>Voir le site</b></a>
-  &nbsp;|&nbsp;
-  <a href="https://odd-tools-dev.github.io/site/assets/Odd-Tools-plaquette.pdf">Brochure PDF</a>
 </p>
 
 <p align="center">
@@ -21,4 +19,4 @@
   </picture>
 </p>
 
-Plans de ventes, gestion massive des familles, audit des maquettes, surfaces de Toposolid : un onglet pour les tâches répétitives des projets BIM, sous Revit 2025, 2026 et 2027. Version 0.11 Beta.
+Plans de ventes, gestion massive des familles, audit des maquettes, surfaces de Toposolid : un onglet pour les tâches répétitives des projets BIM, sous Revit 2021 à 2027 (Plans de ventes et Topographie : à partir de 2025). Version 0.12 Beta.
