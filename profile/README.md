@@ -19,6 +19,6 @@
   </picture>
 </p>
 
-Plans de ventes, gestion massive des familles, surfaces de Toposolid : un onglet pour les tâches répétitives des projets BIM, sous Revit 2021 à 2027 (Plans de ventes et Topographie : à partir de 2025). Version 0.13 Beta.
+Plans de ventes, gestion massive des familles, surfaces de Toposolid : un onglet pour les tâches répétitives des projets BIM, sous Revit 2021 à 2027 (Plans de ventes et Topographie : à partir de 2025). Version 0.14 Beta.
 
 Contact : [odd.tools.dev@gmail.com](mailto:odd.tools.dev@gmail.com)
